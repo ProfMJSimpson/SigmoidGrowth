@@ -1,4 +1,4 @@
-# SigmoidGrowth
+# Sigmoid Population Growth
 Files to re-create results in Simpson, Browning, Warne, Maclaren and Baker (2021)
 
 
