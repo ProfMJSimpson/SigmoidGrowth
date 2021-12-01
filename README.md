@@ -12,4 +12,4 @@ Subfolder ProfilingRichards contains codes that compute the various likelihood p
 
 Subfolder Synthetic contains codes that evaluate the synthetic data exercises in the Supplementary Material document.
 
-All data is provided in an excel spreadsheet, unimaginatively called Data.xlxs
+All data is provided in an excel spreadsheet, unimaginatively called Data.xlsx
